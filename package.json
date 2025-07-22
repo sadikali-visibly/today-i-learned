@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "contentful-cli": "^0.16.1",
-    "react-scripts": "1.1.4"
+    "react-scripts": "5.0.1"
   },
   "reactSnap": {
     "cacheAjaxRequests": true,
